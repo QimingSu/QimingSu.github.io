@@ -59,7 +59,7 @@ nav ul li a:hover {
 /* Banner样式（可替换背景图） */
 .banner {
     height: 300px;
-    background: url("C:\Users\12037\Desktop\QimingSu.github.io\2025-10-30_120758_604.jpg") no-repeat center center;
+    background: url("2025-10-30_120758_604.jpg") no-repeat center center;
     background-size: cover;
     display: flex;
     align-items: center;
